@@ -2,7 +2,7 @@
 Different Billboard Modes for Unity.
 Use a PNG with transparency.
 
-<img src="billboard_clown.png" width="500">
+<img src="./billboard_clowns.png" width="500">
 
 ## Billboards
 
